@@ -10,6 +10,7 @@ public class ProductoDelete {
   private final ProductoDeleteService productoDeleteService;
 
   public void deleteProducto(String id){
+
     productoDeleteService.deleteProduct(id);
   }
 }

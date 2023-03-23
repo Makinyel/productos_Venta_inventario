@@ -16,4 +16,6 @@ public class VentaDto {
     private String idProducto;
     private int stock;
 
+
+
 }
